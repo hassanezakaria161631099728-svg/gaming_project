@@ -3,6 +3,8 @@ import pymem.process
 import keyboard
 import math
 import time
+from game_tools.auto_aim import calculate_angle,get_angle_distance
+
 # =========================================================
 # 1. إعدادات العناوين (Addresses & Offsets)
 # قومي بإدخال العناوين التي تجدها بنفسك هنا
