@@ -2,11 +2,11 @@
 
 تدعم بايثون كل العمليات الحسابية، وفيها عمليات مفيدة مثل القسمة الصحيحة والباقي.
 
-operation symbol  example  result
+operation             symbol         example           result
 
-addition     +     17+5      22
+addition                +             17+5               22
 
-sustraction -      17-5      12
+sustraction             -             17-5               12
 
 multiplication *   17*5     85
 
