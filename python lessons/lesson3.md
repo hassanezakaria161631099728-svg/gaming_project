@@ -2,7 +2,7 @@
 
 تدعم بايثون كل العمليات الحسابية، وفيها عمليات مفيدة مثل القسمة الصحيحة والباقي.
 
-|operation|             |symbol|         |example|           |result|
+|operation | symbol| example| result|
 
 |addition|                |+|             |17+5|               |22|
 
