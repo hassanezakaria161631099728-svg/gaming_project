@@ -4,7 +4,7 @@
 
 |operation|             |symbol|         |example|           |result|
 
-addition                +             17+5               22
+|addition|                |+|             |17+5|               |22|
 
 sustraction             -             17-5               12
 
